@@ -1,0 +1,36 @@
+{
+  "name": "project-boilerplate",
+  "version": "1.0.0",
+  "description": "project boilerplate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeKJEK/project-boilerplate.git"
+  },
+  "keywords": [
+    "front-end",
+    "development",
+    "environment"
+  ],
+  "author": "kurtis kovel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeKJEK/project-boilerplate/issues"
+  },
+  "homepage": "https://github.com/codeKJEK/project-boilerplate#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^5.0.0",
+    "gulp-terser": "^2.0.1",
+    "gulp-webp": "^4.0.1",
+    "gulp-webserver": "^0.9.1",
+    "sass": "^1.37.5",
+    "gulp-concat": "^2.6.1"
+  }
+}
